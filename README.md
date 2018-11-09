@@ -1,2 +1,2 @@
-# CTF
-CaptureTheFlag
+# GEORGIAN CTF Challenge
+CaptureTheFlag - გისურვებთ წარმატებას
